@@ -78,7 +78,6 @@ If you’re hiring for:
 - 🌐 Portfolio: [juliorubio.dev](https://juliorubio.dev/)
 - 💼 LinkedIn: [linkedin.com/in/juliocrubiom](https://www.linkedin.com/in/juliocrubiom)
 - 📫 Email: **juliorubiodev@gmail.com**
-- 🧑‍💻 GitHub: [github.com/Juliorubiodev](https://github.com/Juliorubiodev)
 
 ---
 
