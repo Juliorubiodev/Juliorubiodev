@@ -1,98 +1,69 @@
-# Hi, I'm Julio César Rubio Montaño 👋
+# Hey, I’m Julio 👋
 
-**Computer Engineer | Full Stack Developer | Android Developer**  
-Based in **Granada, Spain** 🇪🇸
+I’m a Computer Engineer based in Granada, Spain 🇪🇸  
+I like building digital products that feel useful, simple, and a little fun.
 
-I build scalable web/mobile solutions, improve business processes through technology, and enjoy turning ideas into real products with clean architecture and strong UX.
-
----
-
-## 🚀 About Me
-
-- 🎓 Master’s Degree in Computer Engineering (**in progress**) — University of Granada  
-- 🎓 Bachelor’s Degree in Systems Engineering — Universidad del Magdalena  
-- 💼 Experience in full stack development, Android development, ERP systems, and digital transformation
-- 🌍 Passionate about AI, innovation, and collaborative international environments
+Right now I’m **open to work** (remote/hybrid) and also building personal projects on the side.
 
 ---
 
-## 🧠 What I’m Working On
+## A bit about me
 
-- **Inku** — A collaborative manga reading platform with cloud-based content workflows
-- **Vicious** App to gamify the user's life based on good habits
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Core:**  
-JavaScript · TypeScript · Kotlin · Dart · Python · SQL · C/C++
-
-**Frontend & Mobile:**  
-React · Next.js · Flutter · Jetpack Compose · HTML · CSS · Tailwind
-
-**Backend & Data:**  
-Node.js · MongoDB · Firebase · AWS S3 · REST APIs
-
-**Tools & Workflow:**  
-Git · Docker · Figma · Agile methodologies
+- 🔭 I’m currently working on **Inku** and **Vicious** (a habit-gamification app). More details soon.
+- 🌱 I’m currently learning more about cloud architecture, AI-powered features, and better product thinking.
+- 👯 I’m looking to collaborate on web/mobile products, startup ideas, and dev-focused tools.
+- 🤔 I’m looking for help with product growth, distribution, and indie shipping strategies.
+- 💬 Ask me about React, TypeScript, Kotlin, Android, Firebase, or building MVPs fast.
+- ⚡ Fun fact: I love Japan, anime culture and mixing game mechanics with real-life productivity ideas.
 
 ---
 
-## 🌟 Featured Projects
+## What I build
 
-### [Inku](https://github.com/Juliorubiodev/Inku)
-Collaborative manga platform focused on a modern Android experience.  
-**Stack:** Kotlin, Jetpack Compose, AWS S3, cloud-ready architecture.
+A few projects:
 
-### [Smash-OBS-API](https://github.com/Juliorubiodev/Smash-OBS-API)
-Real-time stage selection system for Smash tournaments with tablet control + OBS overlay sync.  
-**Stack:** Node.js, Express, Socket.IO, HTML/CSS/JS.
+- **[Inku](https://github.com/Juliorubiodev/Inku)**  
+  Collaborative manga platform with a modern Android experience.
 
----
-
-## 💼 Experience Highlights
-
-### Digital Transformation & Development Lead — **Tornimaq**  
-*Jun 2024 – Jun 2025*
-
-- Led process digitalization and technical development initiatives.
-- Delivered end-to-end technology solutions to improve operational efficiency.
-
-### Full Stack & Android Developer — **Casa Creativa**  
-*Oct 2022 – May 2023*
-
-- Built responsive web applications and scalable e-commerce solutions.
-- Designed and implemented a comprehensive ERP system (inventory, billing, accounting, payroll, commissions).
-- Improved conversion performance through optimization and better digital flows.
+- **[Smash-OBS-API](https://github.com/Juliorubiodev/Smash-OBS-API)**  
+  Real-time stage selection tool for tournaments (tablet control + OBS overlay sync).
 
 ---
 
-## 🏆 Key Achievements
+## Tech I use often
 
-- Developed an AI solution for early phytopathology detection in crops.
-- Architected and deployed an ERP + network infrastructure solution that automated critical business processes and significantly improved efficiency.
-
----
-
-## 🌐 Languages
-
-- Spanish (Native)
-- English (C1)
-- Japanese (N5)
+**Frontend:** React, TypeScript, Next.js, Tailwind  
+**Mobile:** Kotlin, Jetpack Compose, Flutter  
+**Backend:** Node.js, Express, Firebase, MongoDB, REST APIs  
+**Cloud/Tools:** AWS S3, Docker, Git, Figma
 
 ---
 
-## 🤝 Let’s Connect
+## Current status
 
-- 🌍 Website: [juliorubio.dev](https://juliorubio.dev/)
+I’m in my Master’s in Computer Engineering and actively looking for opportunities where I can contribute, learn fast, and ship meaningful features.
+
+If you’re hiring for:
+- Full Stack
+- Frontend
+- Android
+- Product-minded engineering roles
+
+…I’d love to connect.
+
+---
+
+## Find me here
+
+- 🌐 Portfolio: [juliorubio.dev](https://juliorubio.dev/)
 - 💼 LinkedIn: [linkedin.com/in/juliocrubiom](https://www.linkedin.com/in/juliocrubiom)
 - 📫 Email: **juliorubiodev@gmail.com**
 - 🧑‍💻 GitHub: [github.com/Juliorubiodev](https://github.com/Juliorubiodev)
 
 ---
 
-> “Build with purpose, scale with clarity, and never stop learning.”
+> Building useful things, one iteration at a time.
+
 
 
 <!--
